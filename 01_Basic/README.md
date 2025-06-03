@@ -46,12 +46,14 @@ If you'd like to run these notebooks locally:
 This is part of a self-paced learning journey. Contributions, suggestions, and feedback are welcome!
 
 📅 Progress Tracker
+
+
 ✅ Problem 001 – Completed
 
 🕓 Problem 002 – In Progress
 
 ⏳ More coming soon...
 
-Author: Sanjida Orin
+Author: Sanjida Orin Tawhid
 
 Course: Python Hand-on: Solve 200 Problems (Udemy)
