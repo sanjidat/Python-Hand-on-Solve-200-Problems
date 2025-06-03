@@ -1,4 +1,4 @@
-📁 01_Basic/README.md
+# 📁 01_Basic/README.md
 # 📘 Section 01 – Basic Python Programs
 
 This folder contains solutions to basic Python problems from the Udemy course [Python Hand-on: Solve 200 Problems](https://www.udemy.com/course/python-handon/).
