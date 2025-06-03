@@ -38,11 +38,9 @@ If you'd like to run these notebooks locally:
 
 2. Launch Jupyter:
    ```bash
-   bash
-   Copy
-   Edit
    jupyter notebook
-   Open any .ipynb file and run the cells interactively.
+
+3. Open any .ipynb file and run the cells interactively.
 
 💡 Contribution
 This is part of a self-paced learning journey. Contributions, suggestions, and feedback are welcome!
