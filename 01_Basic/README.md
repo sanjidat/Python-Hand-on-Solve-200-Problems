@@ -36,13 +36,13 @@ If you'd like to run these notebooks locally:
    cd Python-Hand-on-Solve-200-Problems/01_Basic
 
 
-Launch Jupyter:
-
-bash
-Copy
-Edit
-jupyter notebook
-Open any .ipynb file and run the cells interactively.
+2. Launch Jupyter:
+   ```bash
+   bash
+   Copy
+   Edit
+   jupyter notebook
+   Open any .ipynb file and run the cells interactively.
 
 💡 Contribution
 This is part of a self-paced learning journey. Contributions, suggestions, and feedback are welcome!
